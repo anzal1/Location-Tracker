@@ -1,0 +1,88 @@
+[Sat Nov 13 17:27:51 2021] PHP 7.4.3 Development Server (http://0.0.0.0:8080) started
+[Sat Nov 13 17:27:54 2021] 127.0.0.1:34946 Accepted
+[Sat Nov 13 17:27:54 2021] 127.0.0.1:34946 [200]: (null) /index.html
+[Sat Nov 13 17:27:54 2021] 127.0.0.1:34946 Closing
+[Sat Nov 13 17:28:21 2021] 127.0.0.1:35014 Accepted
+[Sat Nov 13 17:28:21 2021] 127.0.0.1:35014 [200]: (null) /
+[Sat Nov 13 17:28:21 2021] 127.0.0.1:35014 Closing
+[Sat Nov 13 17:28:26 2021] 127.0.0.1:35018 Accepted
+[Sat Nov 13 17:28:26 2021] 127.0.0.1:35018 [200]: (null) /
+[Sat Nov 13 17:28:26 2021] 127.0.0.1:35018 Closing
+[Sat Nov 13 17:28:27 2021] 127.0.0.1:35020 Accepted
+[Sat Nov 13 17:28:27 2021] 127.0.0.1:35020 [200]: (null) /css/main.css
+[Sat Nov 13 17:28:27 2021] 127.0.0.1:35020 Closing
+[Sat Nov 13 17:28:27 2021] 127.0.0.1:35024 Accepted
+[Sat Nov 13 17:28:27 2021] 127.0.0.1:35022 Accepted
+[Sat Nov 13 17:28:27 2021] 127.0.0.1:35024 [200]: (null) /js/info.js
+[Sat Nov 13 17:28:27 2021] 127.0.0.1:35022 [200]: (null) /js/location.js
+[Sat Nov 13 17:28:27 2021] 127.0.0.1:35024 Closing
+[Sat Nov 13 17:28:27 2021] 127.0.0.1:35022 Closing
+[Sat Nov 13 17:28:28 2021] 127.0.0.1:35026 Accepted
+[Sat Nov 13 17:28:28 2021] 127.0.0.1:35026 [200]: (null) /
+[Sat Nov 13 17:28:28 2021] 127.0.0.1:35026 Closing
+[Sat Nov 13 17:28:28 2021] 127.0.0.1:35028 Accepted
+[Sat Nov 13 17:28:28 2021] 127.0.0.1:35028 [200]: (null) /
+[Sat Nov 13 17:28:28 2021] 127.0.0.1:35028 Closing
+[Sat Nov 13 17:28:29 2021] 127.0.0.1:35034 Accepted
+[Sat Nov 13 17:28:29 2021] 127.0.0.1:35032 Accepted
+[Sat Nov 13 17:28:29 2021] 127.0.0.1:35038 Accepted
+[Sat Nov 13 17:28:29 2021] 127.0.0.1:35034 [200]: (null) /css/main.css
+[Sat Nov 13 17:28:29 2021] 127.0.0.1:35032 [200]: (null) /js/info.js
+[Sat Nov 13 17:28:29 2021] 127.0.0.1:35038 [200]: (null) /js/location.js
+[Sat Nov 13 17:28:29 2021] 127.0.0.1:35034 Closing
+[Sat Nov 13 17:28:29 2021] 127.0.0.1:35032 Closing
+[Sat Nov 13 17:28:29 2021] 127.0.0.1:35038 Closing
+[Sat Nov 13 17:28:30 2021] 127.0.0.1:35040 Accepted
+[Sat Nov 13 17:28:30 2021] 127.0.0.1:35040 [200]: (null) /js/info.js
+[Sat Nov 13 17:28:30 2021] 127.0.0.1:35040 Closing
+[Sat Nov 13 17:28:30 2021] 127.0.0.1:35042 Accepted
+[Sat Nov 13 17:28:30 2021] 127.0.0.1:35042 [200]: (null) /css/main.css
+[Sat Nov 13 17:28:30 2021] 127.0.0.1:35042 Closing
+[Sat Nov 13 17:28:30 2021] 127.0.0.1:35044 Accepted
+[Sat Nov 13 17:28:30 2021] 127.0.0.1:35044 [200]: (null) /js/location.js
+[Sat Nov 13 17:28:30 2021] 127.0.0.1:35044 Closing
+[Sat Nov 13 17:28:30 2021] 127.0.0.1:35046 Accepted
+[Sat Nov 13 17:28:30 2021] 127.0.0.1:35046 [200]: (null) /fonts/pxiDypQkot1TnFhsFMOfGShVF9eO.woff2
+[Sat Nov 13 17:28:30 2021] 127.0.0.1:35046 Closing
+[Sat Nov 13 17:28:30 2021] 127.0.0.1:35048 Accepted
+[Sat Nov 13 17:28:30 2021] 127.0.0.1:35050 Accepted
+[Sat Nov 13 17:28:30 2021] 127.0.0.1:35048 [200]: (null) /images/locked_doc-1.svg
+[Sat Nov 13 17:28:30 2021] 127.0.0.1:35048 Closing
+[Sat Nov 13 17:28:30 2021] 127.0.0.1:35050 [200]: (null) /images/googlelogo_color_116x41dp.png
+[Sat Nov 13 17:28:30 2021] 127.0.0.1:35050 Closing
+[Sat Nov 13 17:28:33 2021] 127.0.0.1:35058 Accepted
+[Sat Nov 13 17:28:33 2021] 127.0.0.1:35054 Accepted
+[Sat Nov 13 17:28:33 2021] 127.0.0.1:35052 Accepted
+[Sat Nov 13 17:28:33 2021] 127.0.0.1:35058 [200]: (null) /images/drive_favicon1.ico
+[Sat Nov 13 17:28:33 2021] 127.0.0.1:35052 [200]: POST /php/info.php
+[Sat Nov 13 17:28:33 2021] 127.0.0.1:35052 Closing
+[Sat Nov 13 17:28:33 2021] 127.0.0.1:35054 [200]: POST /
+[Sat Nov 13 17:28:33 2021] 127.0.0.1:35058 Closing
+[Sat Nov 13 17:28:33 2021] 127.0.0.1:35054 Closing
+[Sat Nov 13 17:28:36 2021] 127.0.0.1:35062 Accepted
+[Sat Nov 13 17:28:36 2021] 127.0.0.1:35062 [200]: POST /css/main.css
+[Sat Nov 13 17:28:36 2021] 127.0.0.1:35062 Closing
+[Sat Nov 13 17:28:36 2021] 127.0.0.1:35064 Accepted
+[Sat Nov 13 17:28:36 2021] 127.0.0.1:35064 [200]: POST /js/location.js
+[Sat Nov 13 17:28:36 2021] 127.0.0.1:35064 Closing
+[Sat Nov 13 17:28:39 2021] 127.0.0.1:35068 Accepted
+[Sat Nov 13 17:28:39 2021] 127.0.0.1:35068 [200]: POST /js/info.js
+[Sat Nov 13 17:28:39 2021] 127.0.0.1:35068 Closing
+[Sat Nov 13 17:28:43 2021] 127.0.0.1:35070 Accepted
+[Sat Nov 13 17:28:43 2021] 127.0.0.1:35072 Accepted
+[Sat Nov 13 17:28:43 2021] 127.0.0.1:35070 [200]: POST /fonts/pxiDypQkot1TnFhsFMOfGShVF9eO.woff2
+[Sat Nov 13 17:28:43 2021] 127.0.0.1:35072 [200]: POST /images/locked_doc-1.svg
+[Sat Nov 13 17:28:43 2021] 127.0.0.1:35070 Closing
+[Sat Nov 13 17:28:43 2021] 127.0.0.1:35072 Closing
+[Sat Nov 13 17:28:43 2021] 127.0.0.1:35074 Accepted
+[Sat Nov 13 17:28:43 2021] 127.0.0.1:35074 [200]: POST /images/googlelogo_color_116x41dp.png
+[Sat Nov 13 17:28:43 2021] 127.0.0.1:35074 Closing
+[Sat Nov 13 17:28:47 2021] 127.0.0.1:35078 Accepted
+[Sat Nov 13 17:28:47 2021] 127.0.0.1:35078 [200]: POST /php/info.php
+[Sat Nov 13 17:28:47 2021] 127.0.0.1:35078 Closing
+[Sat Nov 13 17:29:02 2021] 127.0.0.1:35090 Accepted
+[Sat Nov 13 17:29:02 2021] PHP Notice:  Undefined index: Una in /home/anzal/seeker/template/gdrive/php/error.php on line 5
+[Sat Nov 13 17:29:02 2021] PHP Notice:  Undefined index: Time in /home/anzal/seeker/template/gdrive/php/error.php on line 6
+[Sat Nov 13 17:29:02 2021] PHP Notice:  Undefined index: Unk in /home/anzal/seeker/template/gdrive/php/error.php on line 7
+[Sat Nov 13 17:29:02 2021] 127.0.0.1:35090 [200]: POST /php/error.php
+[Sat Nov 13 17:29:02 2021] 127.0.0.1:35090 Closing
